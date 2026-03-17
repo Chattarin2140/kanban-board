@@ -1,0 +1,17 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.env.*.backup
+.env.*.local
+.DS_Store
+.vscode
+*.swp
+*.swo
+*~
+.idea
+.phpunit.result.cache
+*.log
