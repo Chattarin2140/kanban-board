@@ -1,4 +1,4 @@
-# Request & Response Design Guide
+# Request & Response Design 
 
 ## Standard Response Format
 
